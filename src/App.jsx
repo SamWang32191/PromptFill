@@ -2568,7 +2568,7 @@ const App = () => {
                         <h1 className={`font-bold tracking-tight transition-all duration-500 ${isTemplateExpanded ? 'text-3xl text-orange-500' : 'text-xs md:text-sm text-orange-500'}`}>
                             {isTemplateExpanded ? t('app_title') : '提示词填空器'}
                             {/* 移动端隐藏版本号以节省空间 */}
-                            {!isTemplateExpanded && <span className="hidden md:inline text-gray-400 text-xs font-normal ml-1">V0.4.1</span>}
+                             {!isTemplateExpanded && <span className="hidden md:inline text-gray-400 text-xs font-normal ml-1">V0.4.1</span>}
                         </h1>
                         {/* Author info removed from here for Expanded state, moved to bottom */}
                    </div>
