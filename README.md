@@ -8,6 +8,10 @@
 ![Vite](https://img.shields.io/badge/Vite-5.x-646CFF.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC.svg)
 
+<img width="1343" height="612" alt="image@1x-2" src="https://github.com/user-attachments/assets/7c3d969b-7f63-46fc-a16a-e3074da6c692" />
+<img width="1343" height="620" alt="1231333" src="https://github.com/user-attachments/assets/08c90a9f-7b1e-4b3d-84fc-650bccfd1d2b" />
+
+
 ## 📝 写在前面
 
 Prompt Fill 现已迭代至 **v0.5.0** 版本。本项目初衷是解决 AI 绘画过程中提示词难记忆、难管理、修改繁琐的问题。通过将 Prompt 结构化，让创作变得像"填空"一样简单。
