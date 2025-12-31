@@ -711,7 +711,7 @@ export const INITIAL_BANKS = {
       { "zh-tw": "靈動的音符", en: "Lively musical note" }
     ]
   },
-  fruit: {
+  fruit_1: {
     label: { "zh-tw": "水果", en: "Fruit" },
     category: "item",
     options: [
