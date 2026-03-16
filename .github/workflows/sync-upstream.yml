@@ -1,11 +1,6 @@
 name: 同步上游資料檔
 
 on:
-  # 每天 00:00 UTC 自動執行
-  schedule:
-    - cron: '0 0 * * *'
-
-  # 允許手動觸發
   workflow_dispatch:
 
 jobs:
